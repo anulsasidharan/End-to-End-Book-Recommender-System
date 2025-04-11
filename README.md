@@ -1,5 +1,10 @@
 # End-to-End-Book-Recommender-System
 
+## Types of recommendation systems
+
+![alt text](<Recommendation system catJPG.jpg>)
+
+
 # How to run?
 ### STEPS
 
