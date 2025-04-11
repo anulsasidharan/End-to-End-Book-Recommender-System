@@ -17,7 +17,9 @@ git clone https://github.com/anulsasidharan/End-to-End-Book-Recommender-System.g
 conda create -n books python =3.12.7 -y
 ```
 
-`conda activate books`
+```bash
+conda activate books
+```
 
 Note:
 
