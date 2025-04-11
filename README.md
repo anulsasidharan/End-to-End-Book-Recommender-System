@@ -7,19 +7,29 @@
 
 Open terminal, and execute the git clone command. 
 
-`git clone https://github.com/anulsasidharan/End-to-End-Book-Recommender-System.git`
+```bash 
+git clone https://github.com/anulsasidharan/End-to-End-Book-Recommender-System.git
+```
 
 ### STEP 2. Create a conda enveronment after opening the repository and activate it
 
-`conda create -n books python =3.12.7 -y`
+```bash
+conda create -n books python =3.12.7 -y
+```
 
 `conda activate books`
 
 Note:
+
     To check the env created or not, just list them. 
-    `conda env list`
+    
+    ```bash
+    conda env list
+    ```
 
 ### STEP 3. Install the requirements
 
-`pip install -r requirements.txt`
+```bash
+pip install -r requirements.txt
+```
 
