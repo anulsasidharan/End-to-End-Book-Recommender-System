@@ -21,9 +21,7 @@ conda create -n books python =3.12.7 -y
 conda activate books
 ```
 
-Note:
-
-    To check the env created or not, just list them. 
+### To check the env created or not, just list the conda enveronments. 
     
 ```bash
 conda env list
