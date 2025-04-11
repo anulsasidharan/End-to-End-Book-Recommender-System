@@ -25,9 +25,9 @@ Note:
 
     To check the env created or not, just list them. 
     
-    ```bash
-    conda env list
-    ```
+```bash
+conda env list
+```
 
 ### STEP 3. Install the requirements
 
