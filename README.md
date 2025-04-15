@@ -4,6 +4,49 @@
 
 ![alt text](<Recommendation system catJPG.jpg>)
 
+### 📘 End-to-End Book Recommender System – Workflow Overview
+#### Data Ingestion
+
+- Read raw datasets (e.g., books, users, ratings) from the artifacts/dataset/ directory.
+
+- Utilize the DataIngestion component to load and preprocess data.​
+
+#### Data Transformation
+
+- Clean and merge datasets.
+
+- Perform feature engineering (e.g., compute average ratings, filter popular books).
+
+- Prepare data for recommendation algorithms.​
+
+#### Model Training
+
+- Implement recommendation algorithms (e.g., collaborative filtering, content-based filtering).
+
+- Train models using the processed data.
+
+- Save trained models to the artifacts/ directory.​
+
+#### Model Evaluation
+
+- Evaluate model performance using appropriate metrics (e.g., RMSE, precision, recall).
+
+- Fine-tune models based on evaluation results.​
+
+#### Deployment
+
+- Develop a web application using app.py to serve recommendations.
+
+- Containerize the application using Docker (Dockerfile provided).
+
+- Deploy the application for end-users to interact with.​
+
+#### User Interaction
+
+- Users input their preferences or select books.
+
+- The system provides personalized book recommendations based on user input
+
 
 # How to run?
 ### STEPS
