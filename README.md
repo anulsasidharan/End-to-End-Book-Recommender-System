@@ -5,6 +5,10 @@
 ![alt text](<Recommendation system catJPG.jpg>)
 
 ### 📘 End-to-End Book Recommender System – Workflow Overview
+
+![alt text](E2E_Book_Recommendation_System.jpg)
+
+
 #### Data Ingestion
 
 - Read raw datasets (e.g., books, users, ratings) from the artifacts/dataset/ directory.
