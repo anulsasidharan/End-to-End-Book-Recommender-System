@@ -1,8 +1,8 @@
 artifacts_config:
-  artifacts_dir: artifacts_config:
+  artifacts_dir: artifacts
 
 data_ingestion_config:
-  dataset_doenload_url: https://github.com/anulsasidharan/raw_datasets/blob/main/books-data.zip
+  dataset_download_url: https://github.com/anulsasidharan/raw_datasets/raw/refs/heads/main/books-data.zip
   dataset_dir: dataset
   ingested_dir: ingested_data
   raw_data_dir: raw_data
