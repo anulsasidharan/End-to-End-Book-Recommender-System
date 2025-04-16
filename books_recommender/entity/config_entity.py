@@ -13,9 +13,9 @@ DataValidationConfig = namedtuple("DataValidationConfig", ["clean_data_dir",
 DataTransformationConfig = namedtuple("DataTransformationConfig", ["clean_data_file_path",
                                                                    "transformed_data_dir"])
 
-# ModelTrainingConfig = namedtuple("ModelTrainingConfig", ["transformed_data_file_dir",
-#                                                          "trained_model_dir",
-#                                                          "trained_model_name"])
+ModelTrainingConfig = namedtuple("ModelTrainingConfig", ["transformed_data_file_dir",
+                                                         "trained_model_dir",
+                                                         "trained_model_name"])
 
 # ModelRecommendationConfig = namedtuple("ModelRecommendationConfig", ["book_name_serialized_objects",
 #                                                                      "book_pivot_serialized_objects",
