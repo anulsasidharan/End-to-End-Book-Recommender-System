@@ -52,7 +52,16 @@
 - The system provides personalized book recommendations based on user input
 
 
-# How to run?
+### Workflow
+- config.yaml
+- entity
+- config/configuration.py
+- components
+- pipeline
+- main.py
+- app.py
+
+## How to run?
 ### STEPS
 
 ### STEP 1. Clone the repository
