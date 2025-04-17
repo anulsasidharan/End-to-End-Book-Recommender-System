@@ -1,5 +1,11 @@
 # End-to-End-Book-Recommender-System
 
+![alt text](image.png)
+
+## project architecture diagram
+
+![alt text](image-1.png)
+
 ## Types of recommendation systems
 
 ![alt text](<Recommendation system catJPG.jpg>)
