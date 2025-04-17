@@ -128,7 +128,7 @@ git clone "your-project"
 ```
 
 ```bash
-docker build -t entbappy/stapp:latest . 
+docker build -t anulsasidharan/bookapp:latest . 
 ```
 
 ```bash
@@ -136,7 +136,7 @@ docker images -a
 ```
 
 ```bash
-docker run -d -p 8501:8501 entbappy/stapp 
+docker run -d -p 8501:8501 anulsasidharan/bookapp 
 ```
 
 ```bash
@@ -156,13 +156,13 @@ docker login
 ```
 
 ```bash
-docker push entbappy/stapp:latest 
+docker push anulsasidharan/bookapp:latest 
 ```
 
 ```bash
-docker rmi entbappy/stapp:latest
+docker rmi anulsasidharan/bookapp:latest
 ```
 
 ```bash
-docker pull entbappy/stapp
+docker pull anulsasidharan/bookapp
 ```
