@@ -94,3 +94,7 @@ conda env list
 pip install -r requirements.txt
 ```
 
+To run  the streamlit app
+```bash
+streamlit run app.py
+```
